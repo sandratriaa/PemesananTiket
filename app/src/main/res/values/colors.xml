@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="biru">#2196F3</color>
+    <color name="biru_muda_teks">#D6EAFF</color>
+    <color name="hijau">#2E7D32</color>
+    <color name="merah">#E53935</color>
+    <color name="putih">#FFFFFF</color>
+    <color name="hitam">#212121</color>
+    <color name="bg_abu">#F2F4F7</color>
+    <color name="abu_teks">#616161</color>
+    <color name="abu_muda_teks">#9E9E9E</color>
+    <color name="kotak_jumlah_bg">#EEEEEE</color>
+</resources>
