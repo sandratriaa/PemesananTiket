@@ -22,4 +22,4 @@ Aplikasi sederhana untuk memesan tiket dengan fitur pengaturan jumlah tiket dan 
 | ![Kondisi Awal](dokumentasi/screenshot_kondisi_awal.png) | ![Setelah Ditekan](dokumentasi/screenshot_setelah_ditambah.png) |
 
 ## Jawaban Praktikum
-Dokumen jawaban praktikum tersedia di: [`dokumentasi/jawaban_praktikum.pdf`](dokumentasi/jawaban_praktikum.pdf)
+Dokumen jawaban praktikum tersedia di: [`dokumentasi/jawaban_praktikum.pdf`](dokumentasi/245150401111027_Sandra Triana_Modul3.pdf)
